@@ -1,0 +1,11 @@
+/app
+*.DS_Store
+*.coffee
+/css/*
+bower_components/*
+node_modules/
+npm-debug.log
+.sass-cache/
+/build/*
+/tests/unit/scss/*.css
+package-lock.json
